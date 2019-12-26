@@ -3,3 +3,5 @@
 下载工程吧
 #import "UIView+CYBTool.h"
 引入pch文件里 就可以全局使用啦 
+
+view用约束跟frame布局都是可以兼容的哦
